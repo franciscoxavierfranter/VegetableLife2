@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opcion_profesional">
+        <item>@string/prof_nutricionista</item>
+        <item>@string/prof_medico</item>
+        <item>@string/prof_psicologo</item>
+        <item>@string/prof_entrenador</item>
+    </string-array>
+    <string-array name="foodwinner">
+        <item>@string/foodie1</item>
+        <item>@string/foodie2</item>
+        <item>@string/foodie3</item>
+        <item>@string/foodie4</item>
+    </string-array>
+</resources>

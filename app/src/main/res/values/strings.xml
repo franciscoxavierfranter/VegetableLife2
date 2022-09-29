@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VegetableLife2</string>
+    <string name="nav_header_title">VegetableLife</string>
+    <string name="nav_header_subtitle">Comunidad VegetableLife</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profesionales">Profesionales</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="prof_nutricionista">Nutricionista</string>
+    <string name="prof_medico">Nutriólogo</string>
+    <string name="prof_psicologo">Psicólogo</string>
+    <string name="prof_entrenador">Entrenador</string>
+
+    <string name="restaurant">Locales de la Semana</string>
+    <string name="foodie1">El Veganito</string>
+    <string name="foodie2">Locos por el pasto</string>
+    <string name="foodie3">GreenPoison</string>
+    <string name="foodie4">No Sedentario</string>
+</resources>
